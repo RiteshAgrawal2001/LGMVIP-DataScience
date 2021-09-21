@@ -10,7 +10,8 @@
 
 **Batch: September 2021**
 
- *BEGINNER LEVEL TASK*
+ # *BEGINNER LEVEL TASK*
+ 
 **1) Iris Flowers Classification ML Project :**
 The goal is to create a machine learning model that can learn from the measurements of these irises whose species
 are already known, so that we can predict the species for the new irises.
