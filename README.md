@@ -1,7 +1,6 @@
 # LETS-GROW-MORE-VIP-INTERSHIP-SEPTEMBER 2021
 
 
- AUTHER 
  
 # *Lets Grow More*
 **Data Science Internship (VIP)**
