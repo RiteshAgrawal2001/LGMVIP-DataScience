@@ -7,6 +7,10 @@
 
 **Author: - RITESH JAIPRAKASH AGRAWAL**
 
+profile 🔗
+https://www.linkedin.com/in/ritesh-agrawal-333988166/
+
+
 **Batch: September 2021**
 
  # *BEGINNER LEVEL TASK*
@@ -91,6 +95,9 @@ Step 5 - CONCLUSION
 Dataset : https://bit.ly/3kXTdox
 
 
+THANK YOU 
+RITEH AGRAWAL 
+INTERN DATA SCIENCE LGM VIP SEPTEMBER 2021 
 
 
 
